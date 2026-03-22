@@ -22,8 +22,8 @@ Tech Stack :
       Storage: Google Drive (for large .pkl files)
       
 📁 Project Structure
-web-series-recommender/<img width="1917" height="867" alt="Screenshot 2026-03-22 154022" src="https://github.com/user-attachments/assets/35ec1cc0-4de8-4ce6-b5e8-ef3189d9587b" />
-
 ├── app.py
 ├── requirements.txt
 └── README.md
+
+web-series-recommender/<img width="1917" height="867" alt="Screenshot 2026-03-22 154022" src="https://github.com/user-attachments/assets/35ec1cc0-4de8-4ce6-b5e8-ef3189d9587b" />
