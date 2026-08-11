@@ -4,11 +4,15 @@ A premium, content-based recommendation engine for TV series and web shows built
 
 ---
 
-## 📺 Application Demo
+## 📸 Application Screenshots
 
-Below is a recording showing the interactive flow, selection process, and responsive layout of the application:
+### 1. Initial State (Idle)
+*Displays the selected show details card and prompts the user to generate recommendations.*
+![Initial State](assets/initial_state.png)
 
-![Web Series Recommender Demo](assets/demo.webp)
+### 2. Recommendations Generated
+*Loads and renders highly relevant recommendations side-by-side, including ratings, years, genres, and summaries.*
+![Recommendations State](assets/recommendations.png)
 
 ---
 
@@ -61,7 +65,8 @@ The application will automatically open in your default web browser at `http://l
 
 ```
 ├── assets/
-│   └── demo.webp                   # Demo video recording
+│   ├── initial_state.png           # Screenshot of idle state
+│   └── recommendations.png         # Screenshot of recommendations state
 ├── app.py                         # Main Streamlit web application
 ├── IMDB_TV_Shows_Clean.csv        # Pre-cleaned curated dataset
 ├── requirements.txt               # Project dependencies
